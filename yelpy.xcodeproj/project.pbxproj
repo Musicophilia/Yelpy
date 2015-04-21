@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D1D76B521ADDFD8F007AA097 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D76B511ADDFD8F007AA097 /* AppDelegate.swift */; };
-		D1D76B541ADDFD8F007AA097 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1D76B531ADDFD8F007AA097 /* ViewController.swift */; };
 		D1D76B571ADDFD8F007AA097 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1D76B551ADDFD8F007AA097 /* Main.storyboard */; };
 		D1D76B591ADDFD8F007AA097 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1D76B581ADDFD8F007AA097 /* Images.xcassets */; };
 		D1D76B5C1ADDFD8F007AA097 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D1D76B5A1ADDFD8F007AA097 /* LaunchScreen.xib */; };
@@ -29,7 +28,6 @@
 		D1D76B4C1ADDFD8F007AA097 /* yelpy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yelpy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1D76B501ADDFD8F007AA097 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D1D76B511ADDFD8F007AA097 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D1D76B531ADDFD8F007AA097 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D1D76B561ADDFD8F007AA097 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D1D76B581ADDFD8F007AA097 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D1D76B5B1ADDFD8F007AA097 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@
 			isa = PBXGroup;
 			children = (
 				D1D76B511ADDFD8F007AA097 /* AppDelegate.swift */,
-				D1D76B531ADDFD8F007AA097 /* ViewController.swift */,
 				D1D76B551ADDFD8F007AA097 /* Main.storyboard */,
 				D1D76B581ADDFD8F007AA097 /* Images.xcassets */,
 				D1D76B5A1ADDFD8F007AA097 /* LaunchScreen.xib */,
@@ -212,7 +209,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D1D76B541ADDFD8F007AA097 /* ViewController.swift in Sources */,
 				D1D76B521ADDFD8F007AA097 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
